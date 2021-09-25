@@ -1,0 +1,9 @@
+.post_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid midnightblue;
+    margin: 20px;
+}

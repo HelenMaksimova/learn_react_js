@@ -1,0 +1,11 @@
+.blue_button {
+    padding: 5px 15px;
+    color: midnightblue;
+    border: 1px solid midnightblue;
+    background: none;
+}
+
+.blue_button:hover {
+    color: blue;
+    border: 1px solid blue;
+}
